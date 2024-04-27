@@ -1,0 +1,8 @@
+binary-dry-augmented-clahe
+categorical-cleared-augmented-clahe
+dry-wet-augmented-clahe
+PROJECT
+yolov8l-cls.pt
+yolov8m-cls.pt
+yolov8n-cls.pt
+yolov8n.pt
