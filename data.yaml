@@ -1,0 +1,6 @@
+train: categorical-cleared-augmented-clahe/train
+val: categorical-cleared-augmented-clahe/val
+test: categorical-cleared-augmented-clahe/test
+
+nc: 3  # number of classes
+names: ['dry', 'normal', "wet"]
