@@ -19,9 +19,9 @@ Tento repozitár obsahuje implementácie modelov neurónových sietí, ktoré sa
     python -m pip install --upgrade pip
 
 4. Na stránke [Pytorch.org](https://pytorch.org/) nainštalujte verziu Pytorch podľa vašich požiadaviek
-    ```
 
-4. Teraz nainštalujte potrebné knižnice. Použite nasledujúci príkaz na inštaláciu všetkých potrebných knižníc naraz.
+
+6. Teraz nainštalujte potrebné knižnice. Použite nasledujúci príkaz na inštaláciu všetkých potrebných knižníc naraz.
     ```bash
     pip install ultralytics
     ```
