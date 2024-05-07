@@ -2,8 +2,6 @@
 
 Tento repozitár obsahuje implementácie modelov neurónových sietí, ktoré sa zaoberajú detekciou vekom podmienej degenrácie makuly z obrazov očného pozadia. Zameriava sa predovšetkým na modely YOLOv8.
 
-1. **Modely pre detekciu vekom podmienenej degenerácie makuly**
-
 ## Inštalácia
 
 1. Najprv si nainštalujte Python verzia 3.8. Môžete ho stiahnuť a nainštalovať z [Python.org](https://www.python.org/downloads/) alebo použiť nástroj na správu balíčkov ako `brew` pre macOS alebo `apt` pre Linux.
